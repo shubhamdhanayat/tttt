@@ -1,2 +1,3 @@
-java*ad
-fdsf
+*.text
+*.class
+*.java
